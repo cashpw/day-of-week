@@ -1,0 +1,15 @@
+#+title: day-of-week
+
+Elisp helper functions related to the day of the week.
+
+* Functions
+
+- =day-of-week-monday-p=
+- =day-of-week-tuesday-p=
+- =day-of-week-wednesday-p=
+- =day-of-week-thursday-p=
+- =day-of-week-friday-p=
+- =day-of-week-saturday-p=
+- =day-of-week-sunday-p=
+- =day-of-week-weekday-p=
+- =day-of-week-weekend-p=
